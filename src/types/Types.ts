@@ -43,5 +43,5 @@ export type Species = {
 };
 
 export type Specie = {
-  0: string | number
+  0: string | number;
 };
